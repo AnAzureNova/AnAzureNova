@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am mainly an artist and a musician, but i do programming and gamedev stuff in my spare time.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am mainly an <b>artist</b> and a <b>musician</b>, but i do <b>programming</b> and <b>gamedev</b> stuff in my spare time. I have no clue what i am doing so be cautious of what horrors you might see below.</p>
 
 ###
 
@@ -54,15 +54,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnAzureNova&locale=en&mode=weekly&theme=nord&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://gitlab.com/AnAzureNova" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
@@ -79,6 +70,15 @@
   <a href="https://stackoverflow.com/users/31736357/matt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AnAzureNova&locale=en&mode=weekly&theme=calm&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###

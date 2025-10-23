@@ -1,4 +1,62 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnAzureNova.AnAzureNova&"  />
+</div>
+
+###
+
 <h1 align="left">Hi, im AzureNova / Azure</h1>
+
+###
+
+<img align="right" height="220" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.petpress.net%2Fwp-content%2Fuploads%2F2019%2F11%2F12092042%2F75562931_151372889471502_4147752791952611680_n1.jpg&f=1&nofb=1&ipt=1f0588d9b73a4ac631df0d25a4b6345136e7e8e71815dfec24f03a62b243715a"  />
+
+###
+
+<p align="left">I am mainly an artist and a musician, but i do programming and gamedev stuff in my spare time. I have no clue what i am doing so be cautious of what horrors you might see below.</p>
+
+###
+
+<h6 align="left">My languages:</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+</div>
+
+###
+
+<h6 align="left">I work with:</h6>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="visualstudio logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="25" alt="pycharm logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="25" alt="godot logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="25" alt="premierepro logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="25" alt="aftereffects logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="25" alt="haxe logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="25" alt="inkscape logo"  />
+</div>
 
 ###
 
@@ -22,64 +80,17 @@
 
 ###
 
-<img align="right" height="220" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.petpress.net%2Fwp-content%2Fuploads%2F2019%2F11%2F12092042%2F75562931_151372889471502_4147752791952611680_n1.jpg&f=1&nofb=1&ipt=1f0588d9b73a4ac631df0d25a4b6345136e7e8e71815dfec24f03a62b243715a"  />
-
-###
-
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am mainly an <b>artist</b> and a <b>musician</b>, but i do <b>programming</b> and <b>gamedev</b> stuff in my spare time. I have no clue what i am doing so be cautious of what horrors you might see below.</p>
-
-###
-
-<h6 align="left">My languages:</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<h6 align="left">I work with:</h6>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="premierepro logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="30" alt="haxe logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-</div>
-
-###
-
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnAzureNova&locale=en&mode=weekly&theme=calm&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=AnAzureNova&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnAzureNova&radius=100&theme=github-dark&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###

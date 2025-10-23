@@ -84,7 +84,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnAzureNova&theme=github-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###

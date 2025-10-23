@@ -1,10 +1,30 @@
-<div align="right">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnAzureNova.AnAzureNova&"  />
 </div>
 
 ###
 
 <h1 align="left">Hi, im AzureNova / Azure</h1>
+
+###
+
+<div align="center">
+  <a href="https://gitlab.com/AnAzureNova" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
+  </a>
+  <a href="realazurenova@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://notazurenova.itch.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Azure_Nova" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/31736357/matt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+</div>
 
 ###
 
@@ -60,37 +80,16 @@
 
 ###
 
-<div align="center">
-  <a href="https://gitlab.com/AnAzureNova" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gitlab logo"  />
-  </a>
-  <a href="realazurenova@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://notazurenova.itch.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Azure_Nova" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/31736357/matt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AnAzureNova&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=10" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnAzureNova&theme=github-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnAzureNova&radius=100&theme=github-dark&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###

@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left"> &nbsp; &nbsp;I am mainly an <b>artist</b> and a <b>musician</b>, but i do <b>programming</b> and <b>gamedev</b> stuff in my spare time. I have no clue what i am doing so be cautious of what horrors you might see below.</p>
+<p align="left">I am mainly an artist and a musician, but i do programming and gamedev stuff in my spare time. I have no clue what i am doing so be cautious of what horrors you might see below.</p>
 
 ###
 
@@ -80,10 +80,7 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnAzureNova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
